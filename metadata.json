@@ -1,0 +1,6 @@
+{
+  "name": "Accessible Component Fundamentals (FE-05)",
+  "description": "Production-grade accessible interactive components built from scratch conforming to W3C WAI-ARIA Authoring Practices, featuring Modal Dialog, Tabs, and Disclosure alongside shadcn/ui comparative analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
